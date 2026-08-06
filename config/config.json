@@ -1,0 +1,26 @@
+{
+  "initProduct": "EUR",
+  "initProductAmounts": {
+    "EUR": 3.0,
+    "Pils": 0.4,
+    "Helles": 0.5,
+    "Weissbier": 0.5,
+    "Weinschorle": 0.5
+  },
+  "initNameOrder": [
+    "Lorem Ipsum"
+  ],
+  "initShareFactor": 0.15,
+  "trainingWeekDays": [
+    "Montag",
+    "Mittwoch",
+    "Freitag"
+  ],
+  "initialSavings": {
+    "Date": "01.01.2025",
+    "Register": 1000,
+    "Cash": 900,
+    "DueClubShare": 100,
+    "Savings": 1
+  }
+}
