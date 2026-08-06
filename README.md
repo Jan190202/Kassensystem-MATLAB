@@ -1,0 +1,1 @@
+Reines Backup, Weitereinwicklung in Qt/C++ für bessere Performanz
